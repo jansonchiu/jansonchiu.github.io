@@ -1781,7 +1781,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #6495ed;
 		font-size: 3.5em;
 	}
 
@@ -1844,7 +1844,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			border-color: #6495ed;
 		}
 
 	select {
@@ -1944,7 +1944,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4acaa8;
+			border-color: #6495ed;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2373,7 +2373,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #4acaa8;
+				background: #6495ed;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2589,7 +2589,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #4acaa8;
+			background-color: #6495ed;
 			color: #ffffff !important;
 		}
 
